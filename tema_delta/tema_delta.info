@@ -1,4 +1,4 @@
-name = Delta
+name = Delta 2
 description = Subtema de bootstrap con logo personalizado
 core = 7.x
 base theme = bootstrap
